@@ -1,0 +1,10 @@
+﻿  Zodiac_Sign_Finder.c
+C:\Users\hssav.DESKTOP-NP0BI11\Desktop\Zodiac Sign Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder.c(12,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\hssav.DESKTOP-NP0BI11\Desktop\Zodiac Sign Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder.c(12,11):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\hssav.DESKTOP-NP0BI11\Desktop\Zodiac Sign Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder.c(12,11):
+      the missing variadic argument 2 is required by format string '%c'
+      C:\Users\hssav.DESKTOP-NP0BI11\Desktop\Zodiac Sign Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder\Zodiac_Sign_Finder.c(12,11):
+      this argument is used as a buffer size
+  
+  Zodiac_Sign_Finder.vcxproj -> C:\Users\hssav.DESKTOP-NP0BI11\Desktop\Zodiac Sign Finder\Zodiac_Sign_Finder\x64\Debug\Zodiac_Sign_Finder.exe
